@@ -4,6 +4,7 @@ Predicting cervical cancer risks using machine learning algorithms.
 This project is split into 2 parts:
 
 Part 1: Training the dataset to predict cervical cancer using KNN and SVM.
+
 Part 2: Training the dataset to predict cervical cancer using fuzzy logic and neural networks.
 
 ## Objective
