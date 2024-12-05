@@ -28,4 +28,7 @@ The main objective is to predict the likelihood of patients with heart disease b
 2. Scikit-learn
 3. Pandas
 4. NumPy
+5. TensorFlow
+6. Matplotlib
+7. Scikit-fuzzy
    
